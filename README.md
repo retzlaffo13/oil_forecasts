@@ -1,4 +1,4 @@
-# FORECASTING BRENT CRUDE OIL PRICE AND OECD OIL DEMAND
+# Forecasting Brent Crude Oil Price and OECD Oil Demand
 
 This repository contains a Python program that automates the end‑to‑end forecasting of two key energy time series:  
   **1. Brent crude oil spot price** (USD per barrel)  
