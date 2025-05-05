@@ -16,6 +16,7 @@ The final 24‑month forecasts are saved as CSV files, and a suite of visualizat
 │   └── oecd_forecast.csv
 ├── figures/                                # Generated plot images
 │   ├── Figure_1.png  …  Figure_7.png
+├── project_report.pdf                      # Comprehensive project report with methodology, results, visualizations, and appendices
 ├── README.md                               # This file
 └── requirements.txt                        # Python dependencies
 ```
